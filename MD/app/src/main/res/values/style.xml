@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Splash Screen-->
+    <style name="splashscreenstyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+
+    <style name="Widget.AppTheme.TextInputLayoutCustom" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusBottomEnd">8dp</item>
+        <item name="boxCornerRadiusBottomStart">8dp</item>
+        <item name="boxCornerRadiusTopEnd">8dp</item>
+        <item name="boxCornerRadiusTopStart">8dp</item>
+        <item name="boxBackgroundMode">outline</item>
+        <item name="boxStrokeColor">@color/black_soft</item>
+        <item name="hintTextColor">@color/black</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="hintTextAppearance">
+            @style/TextAppearance.AppTheme.TextInputLayout.HintTextCustom
+        </item>
+    </style>
+
+    <style name="TextAppearance.AppTheme.TextInputLayout.HintTextCustom" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColorHint">@color/black_soft</item>
+    </style>
+
+    <style name="buttonCustom">
+        <item name="cornerRadius">4dp</item>
+        <item name="backgroundTint">@color/gray</item>
+        <item name="android:padding">20dp</item>
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="strokeColor">@color/white</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="background">@color/black</item>
+    </style>
+
+
+</resources>
