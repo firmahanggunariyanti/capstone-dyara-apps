@@ -16,4 +16,7 @@ Team member
 ######  This study presents a recommendation system that is implemented in an e-commerce based on images uploaded by users. The recommendations that can be displayed in our app are based on gender, subCategory, masterCategory, articleType and basecolour. Based on this, customer preferences in choosing products can change according to customer needs. This will certainly increase the purchase of fashion retail products which will later be profitable for e-commerce and the advantage for customers is the ease of finding the fashion that suits them. 
 
 ## Reason for choosing the theme capstone 
-
+###### We chose the theme of Tourism, Creative, and digital economy because of the problems that arise in an e-commerce retail fashion application, namely:
+- item 1 The difficulty of fashion retail e-commerce in providing recommendations based on categories and types of clothing for customers.
+- item 2 Customers often experience confusion in determining the clothes they want to buy at an e-commerce retail fashion.
+###### Based on the existing problems, we tried to overcome this by creating a fashion recommender feature based on the similarity of the image uploaded by the user.
