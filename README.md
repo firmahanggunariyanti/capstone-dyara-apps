@@ -1,7 +1,7 @@
 # CAPSTONE BANGKIT PROJECT 2022
 ## C22-PS277
 
-## Introduction to our product
+## Introduction to our team member
 Team member 
 * Firmah Anggun Ariyanti | M7180F1744 | Machine Learning 
 * Rafi Adi Nugroho | M7009G0991 | Machine Learning 
@@ -20,3 +20,6 @@ Team member
 -  The difficulty of fashion retail e-commerce in providing recommendations based on categories and types of clothing for customers.
 -  Customers often experience confusion in determining the clothes they want to buy at an e-commerce retail fashion.
 ###### Based on the existing problems, we tried to overcome this by creating a fashion recommender feature based on the similarity of the image uploaded by the user.
+
+## Existing Result
+
