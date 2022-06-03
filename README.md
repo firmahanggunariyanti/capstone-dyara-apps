@@ -22,4 +22,12 @@ Team member
 ###### Based on the existing problems, we tried to overcome this by creating a fashion recommender feature based on the similarity of the image uploaded by the user.
 
 ## Existing Result
+###### From the results of the case study, we found research that is similar to the problems we face, namely the Zara and Amazon fashion retail applications. The two big companies have been able to make good recommendation features in an e-commerce. However, there is no further explanation regarding the technique used to build their recommendation feature. So in this project we propose a mode recommendation feature using CNN. We chose CNN as a tool to create our fashion recommender feature because of its advantages, namely it has a very high level of accuracy in classification because it has neurons that are presented in two dimensions. With CNN's advantages, we believe that CNN can provide the right predictions for clothes that are suitable for every fashion retail e-commerce customer/user.
 
+## Implementation/Improvement & Reasoning
+
+## Result
+
+## Documentation 
+
+## Plan a local deployment of your project
