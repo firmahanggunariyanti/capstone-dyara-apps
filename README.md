@@ -17,6 +17,6 @@ Team member
 
 ## Reason for choosing the theme capstone 
 ###### We chose the theme of Tourism, Creative, and digital economy because of the problems that arise in an e-commerce retail fashion application, namely:
-- item 1 The difficulty of fashion retail e-commerce in providing recommendations based on categories and types of clothing for customers.
-- item 2 Customers often experience confusion in determining the clothes they want to buy at an e-commerce retail fashion.
+- 1 The difficulty of fashion retail e-commerce in providing recommendations based on categories and types of clothing for customers.
+- 2 Customers often experience confusion in determining the clothes they want to buy at an e-commerce retail fashion.
 ###### Based on the existing problems, we tried to overcome this by creating a fashion recommender feature based on the similarity of the image uploaded by the user.
