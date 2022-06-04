@@ -25,12 +25,18 @@ Team member
 ###### From the results of the case study, we found research that is similar to the problems we face, namely the Zara and Amazon fashion retail applications. The two big companies have been able to make good recommendation features in an e-commerce. However, there is no further explanation regarding the technique used to build their recommendation feature. So in this project we propose a mode recommendation feature using CNN. We chose CNN as a tool to create our fashion recommender feature because of its advantages, namely it has a very high level of accuracy in classification because it has neurons that are presented in two dimensions. With CNN's advantages, we believe that CNN can provide the right predictions for clothes that are suitable for every fashion retail e-commerce customer/user.
 
 ## Implementation/Improvement & Reasoning
+- Using Pre-Trained Model and Transfer Learning
+- Adding the droput layer
 
 ## Result
+will be there folder for result including statistics, improvement, screenshot, and logo. 
+
+## Plan for a local deployment of project 
 
 ## Documentation 
 ###### Use the package manager pip to install footbar.
 
 ```bash
-git clone https://github.com/firmahanggunariyanti/capstone-dyara-apps
-```
+git clone https://github.com/firmahanggunariyanti/capstone-dyara-apps.git
+
+
