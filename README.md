@@ -29,5 +29,8 @@ Team member
 ## Result
 
 ## Documentation 
+###### Use the package manager pip to install footbar.
+git clone https://github.com/firmahanggunariyanti/capstone-dyara-apps
+
 
 ## Plan a local deployment of your project
