@@ -31,7 +31,10 @@ Team member
 ## Result
 will be there folder for result including statistics, improvement, screenshot, and logo. 
 
-## Plan for a local deployment of project 
+## References
+###### Anjan, M.; Abhisek, V.; C, Balamanikantan.; Dheeraj ; Venugeetha, Y. Fashion Recommendation using CNN. International Journal of Advance Research, Ideas and Innovations in Technology. [Volume 6, Issue 3]. ISSN : 2454-132X. 
+
+###### Hwangbo, H.; Kim, Y.S.; Cha, K.J. Recommendation System Development for Fashion Retail E-Commerce. Elsevier. https://doi.org/10.1016/j.elerap.2018.01.012
 
 ## Documentation 
 ###### Use the package manager pip to install footbar.
