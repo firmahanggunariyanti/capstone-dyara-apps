@@ -36,6 +36,8 @@ will be there folder for result including statistics, improvement, screenshot, a
 
 ###### Hwangbo, H.; Kim, Y.S.; Cha, K.J. Recommendation System Development for Fashion Retail E-Commerce. Elsevier. https://doi.org/10.1016/j.elerap.2018.01.012
 
+###### Dataset : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small?resource=download
+
 ## Documentation 
 ###### Use the package manager pip to install footbar.
 
